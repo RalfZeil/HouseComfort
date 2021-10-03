@@ -2024,7 +2024,7 @@ MonoBehaviour:
   thinkCloudText: {fileID: 1206817170}
   interact: {fileID: 581478537}
   interactText: {fileID: 301981095}
-  click: {fileID: 0}
+  click: {fileID: 1291240513}
   bed: {fileID: 0}
 --- !u!1 &581478537
 GameObject:
@@ -3343,7 +3343,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   think: {fileID: 540504192}
-  message: It looks stuck on time.
+  message: It's stuck...
   objectName: Alarm clock
   anim: {fileID: 0}
   darkSwitch: {fileID: 0}
@@ -6447,7 +6447,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   think: {fileID: 540504192}
-  message: Blood... you think.
+  message: It's blood... you think.
   objectName: Toilet
   anim: {fileID: 0}
   darkSwitch: {fileID: 0}
